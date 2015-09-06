@@ -1,0 +1,7 @@
+{
+  "name": "Heroku Sinatra sample app",
+  "description": "A barebones Sinatra app, which can easily be deployed to Heroku",
+  "image": "heroku/ruby",
+  "repository": "https://github.com/b0mar/heroku-sinatra-template.git",
+  "keywords": ["ruby", "sinatra" ]
+}
