@@ -7,7 +7,7 @@ A barebones Sinatra app, which can easily be deployed to Heroku.
 Make sure you have Ruby installed.  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 ```sh
-$ git clone git@github.com:b0mar/heroku-sinatra-template.git
+$ git clone https://github.com/b0mar/heroku-sinatra-template.git 
 $ cd heroku-sinatra-template
 $ bundle install
 $ foreman start web
